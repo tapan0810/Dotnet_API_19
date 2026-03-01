@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36915.13 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet_API_19", "Dotnet_API_19\Dotnet_API_19.csproj", "{E04881BB-316C-41C0-8561-E82D911421F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dotnet_API_19.Tests", "Dotnet_API_19.Tests\Dotnet_API_19.Tests.csproj", "{B15052A7-224A-4C1F-953F-886E332DCA8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E04881BB-316C-41C0-8561-E82D911421F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E04881BB-316C-41C0-8561-E82D911421F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E04881BB-316C-41C0-8561-E82D911421F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B15052A7-224A-4C1F-953F-886E332DCA8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B15052A7-224A-4C1F-953F-886E332DCA8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B15052A7-224A-4C1F-953F-886E332DCA8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B15052A7-224A-4C1F-953F-886E332DCA8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
